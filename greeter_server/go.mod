@@ -3,8 +3,8 @@ module greeter-server
 go 1.17
 
 require (
+	github.com/Hirochon/chon-go-micro-packages v0.0.0-20211003180351-66481f8a459e
 	google.golang.org/grpc v1.40.0
-	google.golang.org/grpc/examples v0.0.0-20210917221926-1109452fd118
 )
 
 require (

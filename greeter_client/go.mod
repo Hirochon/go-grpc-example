@@ -2,7 +2,10 @@ module greeter-client
 
 go 1.17
 
-require google.golang.org/grpc v1.40.0
+require (
+	github.com/Hirochon/chon-go-micro-packages v0.0.0-20211003180351-66481f8a459e
+	google.golang.org/grpc v1.40.0
+)
 
 require (
 	github.com/golang/protobuf v1.4.3 // indirect

@@ -1,3 +1,0 @@
-[submodule "greeter_client/pb-sample"]
-	path = greeter_client/pb-sample
-	url = git@github.com:Hirochon/pb-sample.git

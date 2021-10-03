@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"google.golang.org/grpc"
-	pb "greeter-client/pb_sample"
+	pb "github.com/Hirochon/chon-go-micro-packages/hello/proto"
 )
 
 const (

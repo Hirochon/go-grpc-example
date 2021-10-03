@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
+	pb "github.com/Hirochon/chon-go-micro-packages/hello/proto"
 	"google.golang.org/grpc"
-	pb "google.golang.org/grpc/examples/helloworld/helloworld"
 )
 
 const (
